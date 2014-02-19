@@ -1,0 +1,11 @@
+Guía de Eclipse:
+
+Para empezar hay que descargar e instalar eclipse:
+http://www.eclipse.org/downloads/
+
+Una vez instalado eclipse, se crea en mis documentos una carpeta, por defecto se llamara workspace.
+En esta carpeta es donde meteremos nuestro programa llamado cortacésped, es decir, la carpeta del proyecto la pegamos dentro del directorio workspace.
+
+Abrimos eclipse
+Vamos a file, Import  ,general - Existing Project into workspace , le damos a conituar , seleccionamos el direcctorio en Browse  y le damos a finish. 
+Una vez hecho esto, ya el proyecto esta cargado en el eclipse y listo para ser ejecutado
